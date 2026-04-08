@@ -1,0 +1,96 @@
+# PROJECT_BRIEF.md
+
+## Project
+
+Cambridge Family website rebuild
+
+## Product summary
+
+Cambridge Family is an educational space that combines kindergarten and school in one environment.
+
+The website should present the brand as a unified educational system while clearly showing the two main directions:
+- kindergarten
+- school
+
+## Main business goal
+
+Generate qualified leads from parents interested in:
+- kindergarten
+- school
+- экскурсия / consultation / admission inquiry
+
+## Secondary goals
+
+- build trust
+- explain the value of the educational approach
+- show the environment, atmosphere, and quality of the space
+- make navigation simple and intuitive
+- support future marketing and analytics efforts
+
+## User types
+
+### 1. Parents who already know what they need
+Examples:
+- “I need a kindergarten”
+- “I am looking for a school for my child”
+
+They should quickly find the relevant route and CTA.
+
+### 2. Parents who are still exploring
+Examples:
+- “What kind of place is this?”
+- “How is this different from other options?”
+- “Could this work for my child long-term?”
+
+They should be able to understand the full product before choosing a specific route.
+
+## UX principle
+
+Homepage should use **soft routing**, not forced choice.
+
+Meaning:
+- users should see the full product clearly
+- users may choose a route early if ready
+- users should also be able to continue exploring without pressure
+
+## Brand and UX direction
+
+The site should feel:
+- premium
+- clean
+- modern
+- warm
+- trustworthy
+- structured
+- calm, not noisy
+
+## What must be preserved from the current version
+
+- overall storytelling logic
+- visual direction
+- section hierarchy
+- clear product presentation
+- early but non-aggressive route segmentation
+- navigation clarity
+
+## What must be improved
+
+- engineering quality
+- maintainability
+- scalability
+- performance
+- SEO
+- analytics readiness
+- testing readiness
+- future integrations
+- production deployment quality
+
+## Success criteria
+
+The rebuilt website should:
+- look as good as or better than the current version
+- preserve the current strong UX logic
+- be easier to maintain and extend
+- support serious long-term development
+- perform well technically
+- be safe for future integrations and experiments

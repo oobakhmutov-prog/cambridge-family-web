@@ -1,0 +1,71 @@
+# SEO_REQUIREMENTS.md
+
+## Goal
+
+Build strong SEO foundations for the Cambridge Family website from the start.
+
+## Core SEO requirements
+
+### Technical SEO
+- indexable pages
+- clean URLs
+- canonical tags
+- robots.txt
+- sitemap.xml
+- correct metadata
+- Open Graph tags
+- Twitter/X card metadata if applicable
+
+### On-page SEO
+- one clear H1 per page
+- logical H2/H3 hierarchy
+- semantic HTML
+- descriptive page titles
+- useful meta descriptions
+- meaningful internal linking
+- readable content structure
+
+### Performance-related SEO
+- fast loading pages
+- optimized images
+- low CLS
+- strong Core Web Vitals
+- mobile-friendly rendering
+
+### Local relevance
+The website should support local/business trust signals where appropriate:
+- institution name
+- location context
+- contact information
+- structured business/institution information
+- local trust visibility
+
+### Content SEO
+Pages should target clear intents such as:
+- kindergarten
+- school
+- educational environment
+- admission / consultation / tour request
+- specific program pages if later added
+
+### Multilingual SEO
+If the website is multilingual:
+- correct language routing
+- hreflang support
+- localized metadata
+- localized page structures where needed
+
+## Structured data
+Implement schema markup where appropriate, potentially including:
+- organization
+- educational organization
+- breadcrumb
+- FAQ
+- website/page schema
+
+## Avoid
+- duplicated titles/descriptions
+- broken heading hierarchy
+- empty metadata
+- JS-heavy content that harms crawlability
+- thin pages with no useful content
